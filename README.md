@@ -2,7 +2,7 @@
 
 Running BackupRestore.exe with -h, "BackupRestore.exe -h" on CMD will give you the following guide to running
 <br>
-`BioStar2 Backup & Restore -p \<PortNumber\> -k \<KeyFile\> -c \<CertFile\> -a \<IP Address\> -r \<Resource Folder Location\>`
+`BioStar2 Backup & Restore -p <PortNumber> -k <KeyFile> -c <CertFile> -a <IP Address> -r <Resource Folder Location>`
 <br><br>
 An example of the proper running ettiquete is below:<br>
 `BackupRestore.exe -p 449 -a 127.0.0.1 -k "C:\\biostar_cert.key" -c "C:\\biostar_cert.crt" -r "C:\\PythonTool\\BioStar2PythonBackupTool\\res"`
