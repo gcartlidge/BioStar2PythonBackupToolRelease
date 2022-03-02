@@ -1,4 +1,5 @@
-# I thought of doing a public rep for the .exe so its easier!
+# I thought of doing a public rep for the .exe so its easier!<br>
+For any source code requests, email gcartlidge@supremainc.com<br>
 
 Running BackupRestore.exe will instantly get the backup server running, this uses:<br>
 Default port of 449<br>
